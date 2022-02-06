@@ -2,7 +2,18 @@
     "name": "not-so-dull",
     "displayName": "Not So Dull",
     "description": "A NOT so DULL color theme by Dulnith Liyanage",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "DulnithLiyanage",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dulnithLiyanage/NSD-vscode-theme"
+    },
+    "keywords": [
+        "not so dull",
+        "dulnith",
+        "dulnith liyanage",
+        "nsd"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },
