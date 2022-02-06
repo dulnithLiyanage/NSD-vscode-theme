@@ -1,0 +1,21 @@
+{
+    "name": "not-so-dull",
+    "displayName": "Not So Dull",
+    "description": "A NOT so DULL color theme by Dulnith Liyanage",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Not So Dull",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Not So Dull-color-theme.json"
+            }
+        ]
+    }
+}
