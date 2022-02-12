@@ -1,32 +1,32 @@
 {
-    "name": "not-so-dull",
-    "displayName": "Not So Dull",
-    "description": "A NOT so DULL color theme by Dulnith Liyanage",
-    "version": "1.0.0",
-    "publisher": "DulnithLiyanage",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/dulnithLiyanage/NSD-vscode-theme"
-    },
-    "keywords": [
-        "not so dull",
-        "dulnith",
-        "dulnith liyanage",
-        "nsd"
-    ],
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Not So Dull",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Not So Dull-color-theme.json"
-            }
-        ]
-    }
+  "name": "not-so-dull",
+  "displayName": "Not So Dull",
+  "description": "A NOT so DULL color theme by Dulnith Liyanage",
+  "version": "1.1.0",
+  "publisher": "DulnithLiyanage",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dulnithLiyanage/NSD-vscode-theme"
+  },
+  "keywords": [
+    "not so dull",
+    "dulnith",
+    "dulnith liyanage",
+    "nsd"
+  ],
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Not So Dull",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Not So Dull-color-theme.json"
+      }
+    ]
+  }
 }
